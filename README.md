@@ -1,4 +1,8 @@
 # Multiplication-Table-Using-do-while-Loop-in-C
+
+## Multiplication Table
+Problem: Write a program that generates and displays the multiplication table of a number provided by the user. The table should be displayed from 1 to 10. Use a do-while loop to print the multiplication table.
+
 [Click To Try](https://replit.com/@harshrajbhar071/Multiplication-Table-Using-do-while-Loop-in-C#main.c)
 
 It was made in 1 minute. 
