@@ -35,5 +35,5 @@ Clean and simple logic using a do-while loop.
 Easily customizable range for the multiplication table.
 
 ## Contributing
-Feel free to open issues or submit pull requests if you find any improvements or bugs.
-Or you can submit your code too in any other language.
+- Feel free to open issues or submit pull requests if you find any improvements or bugs.
+- Or you can submit your code too in any other language.
